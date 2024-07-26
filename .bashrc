@@ -4,8 +4,9 @@
 #                                                                                       #
 # Made for GNU/Linux systems; may not work on Unix, BSD, or MacOS without modification. #
 #                                                                                       #
-# Color scheme is for xfce-terminal or xterm with a black background,                   #
-# and may not be suitable on other terminal emulators.                                  #
+# Color scheme is for xfce-terminal with a black background,                            #
+# and may not be suitable on other terminal emulators,                                  #
+# especially those that do not display "Bold" colors as a lighter shade.                #
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
 
 #~~~~~IMPORTANT~~~~~#
