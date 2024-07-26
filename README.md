@@ -26,8 +26,7 @@ cp Download_Directory/.bash_profile ~/.bash_profile
 
 Edit the `.bashrc` file with whatever text editor you prefer.
 
-This is set up by default to run fastfetch when the shell is opened. Neofetch is no longer maintained, and should be replaced with another system information tool. If you still want to use neofetch, comment out `fastfetch` on line 20, and uncomment `neofetch`, or add whatever system information tool you use.
-
+To run fastfetch on startup uncomment `# fastfetch` in the autorun section, or add whatever system information display tool you use.  Neofetch is installed on many systems by default, however it is no longer maintained, and should be replaced.
 
 Lines 97 through 109 set the colors of the bash prompt. Change any color enclosed in `${}` to whatever you prefer. The list of colors starts at line 30. `${NC}` resets the text to the default color and font weight.
 
